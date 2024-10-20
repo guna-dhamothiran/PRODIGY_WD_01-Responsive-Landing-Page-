@@ -22,7 +22,7 @@ Product Landing Page
 
 ## Live Demo
 
-[Product Landing Page](file:///C:/Users/gunad/Downloads/Projects-Product_Landing_Page-main/Projects-Product_Landing_Page/index.html)
+[Product Landing Page](https://eddking-qs.github.io/Projects-Product_Landing_Page/)
 
 ## How To Contribute
 
