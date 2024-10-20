@@ -1,8 +1,4 @@
-# FCC R.W.D Certificate Projects - Product Landing Page
-
-## Description
-
-This project is a landing page for the Samsung Galaxy Watch. This is one of the projects required to obtain the Responsive Web Design Certificate from freeCodeCamp.
+Product Landing Page
 
 **Open Source - Contribution Details Below**
 
@@ -26,7 +22,7 @@ This project is a landing page for the Samsung Galaxy Watch. This is one of the 
 
 ## Live Demo
 
-[Product Landing Page](https://eddking-qs.github.io/Projects-Product_Landing_Page/)
+[Product Landing Page](file:///C:/Users/gunad/Downloads/Projects-Product_Landing_Page-main/Projects-Product_Landing_Page/index.html)
 
 ## How To Contribute
 
@@ -43,6 +39,6 @@ Contribute to this project in the following ways:
 3. Make your changes and commit them: `git commit -m '<commit_message>'`
 4. Push to the original branch: `git push origin <project_name>/<location>`
 5. Create the pull request.
-6. Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+6. Alternatively see the GitHub documentation on [creating a pull request](https://github.com/guna-dhamothiran/PRODIGY_WD_01-Responsive-Landing-Page-).
 
 Don't forget to give the project a star! ⭐
